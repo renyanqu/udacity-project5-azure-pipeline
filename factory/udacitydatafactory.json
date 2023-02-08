@@ -1,0 +1,17 @@
+{
+	"name": "udacitydatafactory",
+	"properties": {
+		"globalParameters": {
+			"dataflow_param_fiscalyear": {
+				"type": "int",
+				"value": 2019
+			}
+		}
+	},
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a1b74e65-fb4e-4717-b9c1-2fef568bf13c",
+		"tenantId": "7c30dbb8-800e-499b-b8d6-68776f8bc954"
+	}
+}
